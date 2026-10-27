@@ -1,3 +1,1 @@
-# dragon-fairy-steel
-:)
-hello!!!
+the program is a calculator
